@@ -33,10 +33,10 @@
 3. Collaborator-id peavad kutsega nõustuma (e-mail)
 4. Iga ühel tuleb teha git clone fork-itud repositooriumist (git clone https://YOURUSERNAME@github.com/REPOSITORYOWNERUSERNAME/REPOSITORY.git)
 5. Muudatuste lisamine:
-  * git add
-  * git commit
-  * git fetch & pull
-  * git push
+     * git add
+     * git commit
+     * git fetch & pull
+     * git push
 
 ## Kasulikud viited
 * [JQuery dokumentatsioon](http://api.jquery.com)
