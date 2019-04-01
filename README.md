@@ -43,3 +43,8 @@
 * [Collaboration on github](https://github.com/eesrakenduste-arendamine-2019/2kodutoo/settings/collaboration)
 * [JQuery POST](https://api.jquery.com/jquery.post/)
 * [JQuery AJAX](http://api.jquery.com/jquery.ajax/)
+
+## Autorid
+* Rasmus
+* Revor
+* David
